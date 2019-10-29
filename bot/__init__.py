@@ -1,0 +1,1 @@
+from bot.discordbot import Knowledgebot
